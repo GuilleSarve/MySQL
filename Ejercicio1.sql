@@ -64,4 +64,6 @@ CREATE TABLE personajes (
   Select * From superheroes.personajes;
   #d)Eliminar la base de datos superhéroes
   drop schema superheroes;
+  #guille)
+  select*from superheroes.personajes;
   
